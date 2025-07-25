@@ -1,1 +1,2 @@
-Just a little test of making a 24 hour video seem like a "livestream" by calculating the local user's time. Used Tailwind and vanilla JS with a YouTube video embed. Here's the YouTube video: https://youtu.be/oRWwyZQ_Ip0?si=iXPhDIeMiduLipnJ
+<img width="100%" height="1508" alt="legovnat github io_fake-24hrs-live-feed_" src="https://github.com/user-attachments/assets/ad35da55-1431-4284-9360-b8c0dbf419ad" />
+Just a little test of making a 24 hour video seem like a "livestream" by calculating the local user's time. Used Tailwind and vanilla JS with a YouTube video embed. Here's the YouTube video: [https://youtu.be/oRWwyZQ_Ip0?si=iXPhDIeMiduLipnJ](https://www.youtube.com/watch?v=aItTpglpLQM)
